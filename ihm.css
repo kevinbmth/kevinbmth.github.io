@@ -1,0 +1,94 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header nav ul {
+  margin: 20px;
+  display: flex;
+  border-color: black;
+  border-style: solid;
+  margin-left: 18em;
+  border-radius: 15px;
+ }
+
+header{
+  display: flex;
+  background-color: #880b6d ;
+}
+
+header p{
+  margin-top: 50px;
+}
+
+header img{
+  height: 100px;
+  width: 100px;
+}
+
+
+a:hover {
+  color:rgb(237, 100, 196);
+}
+
+ul li{
+  margin: 10px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+section {
+  text-align: center;
+  margin-top: -1%;
+
+}
+.s{
+  font-size: 50px;
+}
+main{
+  background-image: linear-gradient(180deg, #880b6d 20%, transparent);
+}
+
+header p{
+  margin-top: 60px;
+}
+.mision{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-style: solid;
+  margin-top:5%;
+
+}
+.vision{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 2%;
+  border-style: solid;
+}
+li{
+  text-align: justify;
+}
+.imagen{
+  text-align: center;
+}
+.logo{
+  margin-left: 80%;
+  margin-top: -6%;
+}
+#mis_vis{
+  display: flex;
+  padding: 2rem;
+}
+
+#mis_vis div{
+  padding: 1rem;
+  width: fit-content;
+}
