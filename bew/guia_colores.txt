@@ -1,0 +1,5 @@
+rojo: #8F140F
+azul: #1C66A6
+azul oscuro: #024059
+azul claro: #29A7D9
+gris casi blanco: #E4F2F1
